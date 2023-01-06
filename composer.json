@@ -1,0 +1,14 @@
+{
+    "name": "antonds/testbanner.loc",
+    "autoload": {
+        "psr-4": {
+            "AdvManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anton Dolganin"
+        }
+    ],
+    "require": {}
+}
